@@ -1,0 +1,10 @@
+{
+  "name": "devforge",
+  "version": "1.0.0",
+  "description": "DevForge - AI-Powered No-Code Event Website Builder and College Event Discovery Platform",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "seed": "npm --prefix server run seed"
+  }
+}
